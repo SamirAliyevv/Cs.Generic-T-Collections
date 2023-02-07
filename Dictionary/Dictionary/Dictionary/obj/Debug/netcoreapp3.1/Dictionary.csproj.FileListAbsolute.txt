@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Cs.Generic Types,Collections\Dictionary\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+C:\Users\ASUS\Desktop\Cs.Generic Types,Collections\Dictionary\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+C:\Users\ASUS\Desktop\Cs.Generic Types,Collections\Dictionary\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+C:\Users\ASUS\Desktop\Cs.Generic Types,Collections\Dictionary\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Cs.Generic Types,Collections\Dictionary\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\ASUS\Desktop\Cs.Generic Types,Collections\Dictionary\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\ASUS\Desktop\Cs.Generic Types,Collections\Dictionary\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Cs.Generic Types,Collections\Dictionary\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Cs.Generic Types,Collections\Dictionary\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Cs.Generic Types,Collections\Dictionary\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Cs.Generic Types,Collections\Dictionary\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Cs.Generic Types,Collections\Dictionary\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\ASUS\Desktop\Cs.Generic Types,Collections\Dictionary\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\ASUS\Desktop\Cs.Generic Types,Collections\Dictionary\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache
